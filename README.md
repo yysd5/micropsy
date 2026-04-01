@@ -1,2 +1,3 @@
 # micropsy
-A small TCP/IP protocol stack (microps)
+
+A small TCP/IP protocol stack ([microps](https://github.com/pandax381/microps))
